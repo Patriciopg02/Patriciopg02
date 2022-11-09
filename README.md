@@ -1,4 +1,6 @@
-<img src='gifs\NombreGif.gif' alt='name'/>
+<div align='center'>
+    <img src='gifs\NombreGif.gif' alt='name'/>
+</div>
 
 
 
