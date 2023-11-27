@@ -1,13 +1,8 @@
-<div align='center'>
-    <img src='gifs\NombreGif.gif' alt='name'/>
-</div>
-    <h2> Hey there! <img src="gifs\saludo.gif" width="30px"></h2>
-    <p>
-    
-        I'm Patricio, a Full Stack Web developer I stand out for teamwork, explaining and communicating an idea adequately.
-        I have leadership attitudes with a lot of empathy and listening.
-
----
+<h2> Hey there! <img src="gifs\saludo.gif" width="30px"></h2>
+<p>
+    I'm Patricio, a Full Stack Web developer I stand out for teamwork, explaining and communicating an idea adequately.
+    I have leadership attitudes with a lot of empathy and listening.
+</p>
 
 <h2> 
 Technical Skills
