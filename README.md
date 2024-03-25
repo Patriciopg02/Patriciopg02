@@ -9,16 +9,15 @@ Technical Skills
 </h2>
 <div align='center'>
 <br/>
-<img src='gifs\git.png' alt='name'/>
-<img src='gifs\github.png' alt='name'/>
-<img src='gifs\html.png' width=30px alt='name'/>
-<img src='gifs\javascript.png' width=30px alt='name'/>
-<img src='gifs\css.png' width=30px alt='name'/>
-<img src='gifs\node.png' alt='name'/>
-<img src='gifs\react.png' alt='name'/>
-<img src='gifs\redux.png' alt='name'/>
-<img src='gifs\postgresql.png' alt='name'/>
-<img src='gifs\sequelize.png' alt='name'/>
+<img src='gifs\git.png' alt='git'/>
+<img src='gifs\github.png' alt='github'/>
+<img src='gifs\html.png' width=30px alt='html'/>
+<img src='gifs\javascript.png' width=30px alt='javascript'/>
+<img src='gifs\css.png' width=30px alt='css'/>
+<img src='gifs\node.png' alt='node'/>
+<img src='gifs\react.png' alt='react'/>
+<img src='gifs\express' alt='express'/>
+<img src='gifs\apollo' alt='apollo'/>
 </div>
 
 ---
