@@ -11,10 +11,10 @@ Technical Skills
 <br/>
 <img src='gifs\git.png' alt='git'/>
 <img src='gifs\github.png' alt='github'/>
-<img src='gifs\html.png' width=30px alt='html'/>
-<img src='gifs\javascript.png' width=30px alt='javascript'/>
-<img src='gifs\css.png' width=30px alt='css'/>
 <img src='gifs\node.png' alt='node'/>
+<img src='gifs\html.png' width=30px alt='html'/>
+<img src='gifs\css.png' width=30px alt='css'/>
+<img src='gifs\javascript.png' width=30px alt='javascript'/>
 <img src='gifs\react.png' alt='react'/>
 <img src='gifs\express.png' width=30px alt='express'/>
 <img src='gifs\graphql.png' width=30px alt='graphql'/>
