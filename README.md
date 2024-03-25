@@ -1,7 +1,6 @@
 <h2> Hey there! <img src="gifs\saludo.gif" width="30px"></h2>
 <p>
-    I'm Patricio, a Full Stack Web developer I stand out for teamwork, explaining and communicating an idea adequately.
-    I have leadership attitudes with a lot of empathy and listening.
+Always looking to learn current technologies to solve real life problems with code ;)
 </p>
 
 <h2> 
