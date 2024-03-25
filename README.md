@@ -1,10 +1,5 @@
-<h2> Hey there! <img src="gifs\saludo.gif" width="30px"></h2>
-<p>
-Always looking to learn current technologies to solve real life problems with code ;)
-</p>
-
 <h2> 
-Technical Skills
+Technical knowledge
 </h2>
 <div align='center'>
 <br/>
