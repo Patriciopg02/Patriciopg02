@@ -10,7 +10,7 @@ Technical Skills
 <div align='center'>
 <br/>
 <img src='gifs\git.png' alt='git'/>
-<img src='gifs\gith.png' width=30px alt='github'/>
+<img src='gifs\github.png' width=30px alt='github'/>
 <img src='gifs\node.png' alt='node'/>
 <img src='gifs\html.png' width=30px alt='html'/>
 <img src='gifs\css.png' width=30px alt='css'/>
