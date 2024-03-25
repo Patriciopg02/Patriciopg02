@@ -18,7 +18,7 @@ Technical Skills
 <img src='gifs\react.png' alt='react'/>
 <img src='gifs\express.png' width=30px alt='express'/>
 <img src='gifs\graphql.png' width=30px alt='graphql'/>
-<img src='gifs\apollo.png' width=30px alt='apollo'/>
+<img src='gifs\apollo-server.png' width=30px alt='apollo-server'/>
 </div>
 
 ---
