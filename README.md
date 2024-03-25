@@ -16,8 +16,6 @@ Technical Skills
 <img src='gifs\css.png' width=30px alt='name'/>
 <img src='gifs\node.png' alt='name'/>
 <img src='gifs\react.png' alt='name'/>
-<img src='gifs\material-ui.png' alt='name'/>
-<img src='gifs\bootstrap.png' width=30px alt='name'/>
 <img src='gifs\redux.png' alt='name'/>
 <img src='gifs\postgresql.png' alt='name'/>
 <img src='gifs\sequelize.png' alt='name'/>
